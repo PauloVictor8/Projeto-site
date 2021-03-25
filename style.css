@@ -6,11 +6,3 @@
 body{
     background-color: rgb(134, 62, 216);
 }
-
-main{
-    background-color: white ;
-    width: 500px;
-    margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px black;
-}
