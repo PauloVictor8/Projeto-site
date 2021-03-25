@@ -4,5 +4,38 @@
 }
 
 body{
-    background-color: rgb(134, 62, 216);
+    background-color: rgb(247, 247, 248);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(129, 39, 231);
+    padding: 5px;
+    height: 65px;
+    border: 1px solid rgb(8, 156, 255);
+}
+ul li{
+    list-style: none;
+    display: inline;
+    position: relative;
+    top: 15px;
+}
+
+ul li a{
+    color: black;
+    font-size: 18px;
+    padding: 3px;
+    background-color: rgb(112, 179, 255);
+    border-radius: 3px;
+}
+
+#bem-vindo{
+    font-size: 35px;
+    position: relative;
+    left: 45px;
+}
+
+footer{
+    
 }
