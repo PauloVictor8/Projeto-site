@@ -4,45 +4,36 @@
 }
 
 body{
-    background-color: rgb(247, 247, 248);
+    background-color: rgb(45, 171, 255);
     margin: 0;
     padding: 0;
 }
 
 header{
-    background-color: rgb(64, 61, 66);
+    background-color: rgb(42, 42, 43);
     padding: 5px;
     height: 75px;
     border: 1px solid rgb(14, 13, 13);
-}
-ul li{
-    list-style: none;
-    display: inline;
-    position: relative;
-    top: 15px;
-}
-
-ul li a{
-    color: black;
-    font-size: 18px;
-    padding: 5px;
-    background-color: rgb(93, 163, 243);
-    border-radius: 0,5px;
-    text-decoration: none;
-    
-}
-ul li a:hover{
-    box-shadow: 1px 2px 4px rgb(14, 145, 168);
-    border: 1.5px solid rgb(255, 255, 255);
-}
+} 
 
 #bem-vindo{
-    font-size: 35px;
-    position: relative;
-    left: 45px;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+section {
+    width: 450px;
+    height: 400px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    background-color: white;
 }
 
 footer{
-   position: relative;
-   left: 650px;
+   text-align: center;
 }
